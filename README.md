@@ -20,4 +20,4 @@ El proyecto muestra un Curriculum Vitae con secciones para información personal
 5. **Enlaces en Línea**: Enlaces a perfiles
 
 # cv-project
-https://github.com/1phiexdric/cv-project
+https://roadmap.sh/projects/single-page-cv
